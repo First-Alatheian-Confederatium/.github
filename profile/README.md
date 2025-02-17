@@ -24,11 +24,11 @@
 
 ## Introduction
 
-PANOPTIS is a specialized system designed for discreetly monitoring and analyzing communications within designated groups. It excels at identifying potentially escalating messages and sentiments, providing early warnings for proactive intervention (purely for role-playing purposes).
+PANOPTIS is a specialized system designed for discreetly monitoring and analyzing communications within designated groups. It excels at identifying potentially escalating messages and sentiments, providing early warnings for proactive intervention.
 
 ## Core Functionalities
 
-*   **Message Interception:** PANOPTIS quietly captures and indexes messages from various sources (again, this is for roleplay).
+*   **Message Interception:** PANOPTIS quietly captures and indexes messages from various sources.
 *   **Sentiment Analysis:** The system employs advanced algorithms to gauge the emotional tone and underlying sentiment of messages.
 *   **Threat Detection:** PANOPTIS identifies keywords, phrases, and communication patterns that may indicate escalating tensions or potential threats.
 *   **Real-time Alerts:** When potentially concerning messages are detected, PANOPTIS provides immediate alerts to designated personnel.
@@ -36,17 +36,4 @@ PANOPTIS is a specialized system designed for discreetly monitoring and analyzin
 
 ## Operational Guidelines
 
-PANOPTIS is a tool for gathering and analyzing information. All operations must adhere to the established role-playing rules and ethical guidelines.
-
-## Disclaimer
-
-This system is intended for role-playing purposes only. Any real-world application or misuse is strictly prohibited.
-
-
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-## Sponsors
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
-</a>
+PANOPTIS is a tool for gathering and analyzing information. All operations must adhere to the established operational and ethical guidelines.
